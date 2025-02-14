@@ -16,6 +16,12 @@ cd telegram-shopify-product-list
 npm install
 npm run dev
 ```
+## Example
+
+<img src="https://github.com/user-attachments/assets/c9e21a6e-a8e1-419c-8573-bd08e3b7e3c1" alt="Example 1" height="350">
+<img src="https://github.com/user-attachments/assets/3e6b4cbb-d0d9-4f6f-bb7b-6c549fe57db1" alt="Example 12" height="350">
+
+
 
 ## Resources
 
